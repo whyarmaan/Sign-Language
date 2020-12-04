@@ -1,0 +1,5 @@
+-p/
+datamaker/
+sign_mnist_test/
+sign_mnist_train/
+web/node_modules
